@@ -1,5 +1,5 @@
 # Observational research on psychology & Web3
-											Expectations of the study: 
+			Expectations of the study: 
 			→informative and applicable for Web3 space 
 			→the research and our studies will be helpful for many DAO contributors
  			→we measure progression over time
